@@ -45,3 +45,11 @@ nav li{
     font-weight: bold;
     
 }
+.container img{
+    width: 90%;
+}
+.col-sm-4 h2{
+    font-weight: bold;
+    font-family: Calibri;
+    font-size: 300%;
+}
