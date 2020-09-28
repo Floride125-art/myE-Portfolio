@@ -110,3 +110,14 @@ nav li{
     justify-content: center;
     text-align: justify;
 }
+footer{
+    background-color: black;
+    padding: 1%;
+}
+footer p{
+    color: white;
+    font-family: Calibri;
+    font-size: 15px;
+    margin-left: 37%;
+    margin-top: 2%;
+}
