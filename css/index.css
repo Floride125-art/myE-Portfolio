@@ -85,3 +85,28 @@ nav li{
     box-shadow: 2px 2px 12px rgba(10, 3, 31, 0.2);
     
 }
+.ReachMe{
+    width:100%;
+    height:280px;
+    background-image:url("https://i.postimg.cc/7ZBNVqJv/ohgray.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top:10%;
+}
+.ReachMe p:nth-child(1){
+    color:#FFFFFF;
+    font-size: 20px;
+    font-family:calibri;
+    font-weight:bold;
+}
+
+.ReachMe i{
+    color: white;
+    font-size:18px;
+    justify-content: center;
+    text-align: justify;
+}
