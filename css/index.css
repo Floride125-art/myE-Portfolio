@@ -53,3 +53,19 @@ nav li{
     font-family: Calibri;
     font-size: 300%;
 }
+.col-sm-8 h3{
+    font-weight: bold;
+    font-family: Calibri;
+    font-size: 200%;
+}
+.col-sm-8 h4{
+    font-weight: bold;
+    font-family: Calibri;
+}
+.col-sm-8 p{
+    text-align: justify;
+    font-family: Calibri;
+}
+.col-sm-8 h5{
+    color:darkslategray;
+}
