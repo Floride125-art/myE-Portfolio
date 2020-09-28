@@ -31,9 +31,17 @@ nav li{
     background-size:contain;
   background-position: center;
    background-repeat: no-repeat;
-
-
-   background-image: url("https://files.123freevectors.com/wp-content/original/148341-grey-and-white-wavy-background.jpg");
-   
+   background-image: url("https://files.123freevectors.com/wp-content/original/148341-grey-and-white-wavy-background.jpg");  
+}
+.jumbotron img{
+    width: 50%;
+    
+}
+.jumbotron p{
+    margin-left: 60%;
+    margin-top: 10%;
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
     
 }
