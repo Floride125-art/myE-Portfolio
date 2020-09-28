@@ -27,3 +27,13 @@ nav li{
     margin: 1.5em;
 
 }
+.jumbotron{
+    background-size:contain;
+  background-position: center;
+   background-repeat: no-repeat;
+
+
+   background-image: url("https://files.123freevectors.com/wp-content/original/148341-grey-and-white-wavy-background.jpg");
+   
+    
+}
