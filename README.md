@@ -6,7 +6,9 @@ This my online portfolio that I designed for few days ago and I have tried my be
 #### Set up instruction
 * Open terminal by Ctrl+ Alt + T
 * clone https://github.com/Floride125-art/myE-Portfolio
-* Type code .to open vs code editor or atom . depending on which *  Editor you are using!
+* Type code .to open vs code editor or atom . depending on which editor you are using!
+#### Link to live page
+
 
 
 
